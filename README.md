@@ -12,7 +12,7 @@ A few of the features that it boosts :
 * Full keyboard and mouse support with the ability to add new line using 'shift + enter', saving with enter and cancelling by
 pressing ESC or clicking on any other element;
 * Is fully loaded with a number of customizable methods and values which are optional for the user such as callbacks for
-successful edits, errors, cancels, types of data and a lot more;
+successful edits, errors, types of data and a lot more;
 * Fully commented for anyone who wishes to add to it and a plethora of demos;
 * Ajax support with custom url and additional data to be sent;
 
