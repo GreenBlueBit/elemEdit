@@ -22,3 +22,9 @@ Example :
 
 * HTML - &lt;div id='randomDiv' class='editSimple'&gt; Text Here &lt;/div&gt;
 * Javascript - $.elemEdit({'phpfile.php'}); //Yep, that's all, one line of code, cool right?
+
+Online Demos :
+
+* Using a few of the possible extra parameters : http://demos.bluebit.nu/withOptions/
+* The one line of code to rule them all : http://demos.bluebit.nu/withoutOptions/
+* Yes I know it's full of Doge memes, get over it.
