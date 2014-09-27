@@ -17,7 +17,7 @@ successful edits, errors, cancels, types of data and a lot more;
 * Fully commented for anyone who wishes to add to it and a plethora of demos;
 * Ajax support with custom url and additional data to be sent;
 
-For more projects or to contact me please go to www.facebook.com/greenbluebit
+For more projects or to contact me please go to : http://facebook.com/greenbluebit or my old CV : http://ted.bluebit.nu/
 
 Example :
 
