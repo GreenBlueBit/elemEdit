@@ -27,3 +27,15 @@ h1 {
     margin-right: auto;
     margin-top: 200px;   
 }
+td, th {
+    font-weight: bold;
+    background: #FFFFFF;
+    border-top: 4px solid #F0F0F0;
+    border-bottom: 1px solid #fff;
+    color: #C9C9C9;
+    padding: 8px;
+    width: 180px;
+}
+a {
+    text-decoration: none;   
+}

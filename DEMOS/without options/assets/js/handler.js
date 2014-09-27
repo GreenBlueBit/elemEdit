@@ -1,22 +1,13 @@
 $(document).ready(function() {
    getAppreciates(); 
-    $.elemEdit('assets/php/serverSide.php',
-               {
-                colorize: true,
-                data : {
-                    a : 'saveEdit',
-                    author : 'BlueBit'
-                },
-        afterSuccess : function () {
-            console.log('after edit');   
-        },
-        specialHandler : function(param) {return param + ' edited by special Handler';}
-    });
+    $.elemEdit('assets/php/serverSide.php');
     
     
     
     
-    // doing funny stuff not related to plugin
+    
+    
+    //doing funny stuff, not related to plugin
     
     $('#appImg').qtip({
    content: 'Such Skill! Wow Plugin! Great Mouse! Press Much!',
