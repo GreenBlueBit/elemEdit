@@ -21,5 +21,5 @@ For more projects or to contact me please go to : http://facebook.com/greenblueb
 
 Example :
 
-* HTML - <div id='randomDiv' class='editSimple'> Text Here </div>
+* HTML - &lt;div id='randomDiv' class='editSimple'&gt; Text Here &lt;/div&gt;
 * Javascript - $.elemEdit({'phpfile.php'}); //Yep, that's all, one line of code, cool right?
