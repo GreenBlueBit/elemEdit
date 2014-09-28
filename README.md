@@ -3,6 +3,8 @@ elemEdit
 
 A [really] small and flexible jquery plugin
 
+NOTE : You only need the editElem.js file and jquery for this to work, the rest are demos, license stuff and version info.
+
 The purpose of this project is to allow people to make any html element to become editable be it as a textfield or textarea and send the modification anywhere you'd like with just one line of code;
 
 A few of the features that it boosts : 
