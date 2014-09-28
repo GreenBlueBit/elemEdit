@@ -1,0 +1,32 @@
+{
+    "name": "elemEdit",
+    "title": "elemEdit Plugin",
+    "description": "This plugin makes all elements editable using delegated events, which allow it to easily work with dynamic elements. This makes it possible for any website to easily allow people to edit their posts, make changes to list elements etc.",
+    "keywords": [
+         "edit","elements","delegate","dynamic","easy","fast","one line"
+    ],
+    "version": "0.1",
+    "author": {
+        "name": "BlueBit",
+        "url": "http://www.bluebit.nu"
+    },
+    "maintainers": [
+        {
+            "name": "Theodor Purcaru",
+            "email": "greenbluebit@gmail.com",
+            "url": "http://ted.bluebit.nu"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/GreenBlueBit/elemEdit/blob/master/License.md"
+        }
+    ],
+    "homepage": "http://demos.bluebit.nu/withoutOptions/",
+    "docs": "https://github.com/GreenBlueBit/elemEdit/blob/master/README.md",
+    "demo" : "http://demos.bluebit.nu/withOptions/",
+    "dependencies": {
+        "jquery": "<=2.1"
+    }
+}
